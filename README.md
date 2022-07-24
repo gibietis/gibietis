@@ -2,11 +2,11 @@
 
 Hello there, fellow human (allegedly).
 
-My name is Igor and this is my pretty GitHub repository. I'll use this in a dual manner, serving both as a *curriculum and a platform for my studies**.
+My name is Igor and this is my GitHub repository. I'll use this in a dual manner, serving both as a *curriculum and a platform for my studies**.
 
 You can find my recent work in the **[first-steps](https://github.com/gibietis/first-steps) repository**. Since I'm a beginner, most of what I output isn't really interesting or innovative, especailly those pesky exercises that everyone (including me) makes. Given that, I'll reserve the first-steps repository for things I find amusing or relevant towards my path as a developer.
 
-I am currently taking a degree in **System Analysis and Development** while studying *computer science fundamentals, Git and GitHub, Docker and Python* on my own. I'm new to IT field, earning a *Bachelor's degree in law from Mackenzie Presbyteriam University* in 2022.
+I am currently taking a degree in **System Analysis and Development** while studying *computer science fundamentals, Git and GitHub, Docker and Python* on my own. I'm new to IT field, earning a *Bachelor's degree in law from Mackenzie Presbyterian University* in 2022.
 
 ## hardskills = "I get along very well with: " / print(harskills)
 
