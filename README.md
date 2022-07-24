@@ -2,7 +2,7 @@
 
 Hello there, fellow human (allegedly).
 
-My name is Igor and this is my GitHub repository. I'll use this in a dual manner, serving both as a *curriculum and a platform for my studies**.
+My name is Igor and this is my GitHub repository. I'll use this in a dual manner, serving both as a *curriculum and a platform for my studies*.
 
 You can find my recent work in the **[first-steps](https://github.com/gibietis/first-steps) repository**. Since I'm a beginner, most of what I output isn't really interesting or innovative, especailly those pesky exercises that everyone (including me) makes. Given that, I'll reserve the first-steps repository for things I find amusing or relevant towards my path as a developer.
 
@@ -18,7 +18,7 @@ I am currently taking a degree in **System Analysis and Development** while stud
 
 ## softskills = "During my life, I've become a person capable of: " / print(softskills)
 
-* Working with teams
+* Working in teams
 * Taking decisions during stressful situations (I thank my law degree for that, that's for sure!)
 * Communicating effectively
 * Being open to critics
